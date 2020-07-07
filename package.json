@@ -1,0 +1,12 @@
+
+{
+	"name": "unity-dither4444",
+	"displayName": "unity-dither4444",
+	"version": "1.0.0",
+	"unity": "2018.1",
+	"description": "upm for https://github.com/keijiro/unity-dither4444.git",
+	"keywords": ["unity-dither4444", "Texture"],
+	"category": "mulova",
+	"dependencies": {
+	}
+}
